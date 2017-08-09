@@ -2,7 +2,6 @@ package com.chilema.manager.bean;
 
 public class User {
     private Integer id;
-
     private Integer name;
 
     private String password;

@@ -2,7 +2,6 @@ package com.chilema.manager.bean;
 
 public class Food {
     private Integer id;
-
     private Integer sid;
 
     private String name;

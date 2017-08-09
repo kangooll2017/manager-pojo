@@ -2,7 +2,6 @@ package com.chilema.manager.bean;
 
 public class UserAddress {
     private Integer id;
-
     private Integer uid;
 
     private String address;

@@ -4,7 +4,6 @@ public class OrderFood {
     private Integer id;
 
     private Integer oid;
-
     private Integer fid;
 
     private Integer count;

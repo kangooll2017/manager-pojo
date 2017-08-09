@@ -6,7 +6,6 @@ import java.util.List;
 
 public class ShopExample {
     protected String orderByClause;
-
     protected boolean distinct;
 
     protected List<Criteria> oredCriteria;

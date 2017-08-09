@@ -5,7 +5,6 @@ import java.util.List;
 
 public class OrderFoodExample {
     protected String orderByClause;
-
     protected boolean distinct;
 
     protected List<Criteria> oredCriteria;

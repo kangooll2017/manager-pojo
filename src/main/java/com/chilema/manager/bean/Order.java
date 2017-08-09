@@ -4,7 +4,6 @@ public class Order {
     private Integer id;
 
     private Integer uid;
-
     private Integer sid;
 
     private String creatTime;

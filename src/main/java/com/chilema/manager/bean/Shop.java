@@ -4,7 +4,6 @@ import java.math.BigDecimal;
 
 public class Shop {
     private Integer id;
-
     private String name;
 
     private String password;

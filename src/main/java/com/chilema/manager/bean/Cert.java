@@ -2,7 +2,6 @@ package com.chilema.manager.bean;
 
 public class Cert {
     private Integer id;
-
     private Integer sid;
 
     private String idImg;
